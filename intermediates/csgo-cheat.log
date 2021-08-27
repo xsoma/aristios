@@ -1,0 +1,47 @@
+﻿  aimbot.cpp
+  backtrack.cpp
+  chams dme.cpp
+  knife_proxy.cpp
+  parser.cpp
+  skins.cpp
+  dlight.cpp
+  esp_bomb.cpp
+  ambient_light.cpp
+  night_mode.cpp
+  esp_player.cpp
+  esp_sound.cpp
+  esp_world.cpp
+  glow.cpp
+  engine_prediction.cpp
+  events.cpp
+  hitmarker.cpp
+  misc.cpp
+  nade_pred.cpp
+  triggerbot.cpp
+  Создание кода...
+  Компиляция...
+  hooks.cpp
+  config.cpp
+  imgui_impl_dx9.cpp
+  imgui.cpp
+  imgui_draw.cpp
+  menu.cpp
+  interfaces.cpp
+  math.cpp
+  console.cpp
+  csgo.cpp
+  netvars.cpp
+  renderer.cpp
+  utilities.cpp
+  main.cpp
+  vector3d.cpp
+  view_matrix.cpp
+  Создание кода...
+  buffer.c
+  hde32.c
+  hde64.c
+  hook.c
+  trampoline.c
+  Создание кода...
+  LINK : указан параметр /LTCG, но не требуется создание кода; удалите /LTCG из командной строки компоновки для повышения производительности компоновщика
+  csgo-cheat.vcxproj -> C:\Users\lil yooner\Новая папка (4)\csgo-cheat-pasted-by-choZen-master\output\debug\cheat.dll
